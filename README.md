@@ -3,7 +3,7 @@
 Trabalho desenvolvido durante a disciplina de Análise de algoritmos da Universidade Federal de Uberlândia.
 - Intuição Consiste em dividir o problema em subpartes até alcançar o tamanho unitário e em seguida
 organizá-los de forma ordenada.
-![Ilustração do Merge Sort Top Down 2 Subarrays.](images/td2.png)
+![Ilustração do Merge Sort Top Down 2 Subarrays.](https://github.com/DTKx/mergesort/blob/main/images/td2.PNG)
 
 Objetivos:
 -Implementações Algoritmos Merge Sort com as seguintes variantes:
@@ -33,9 +33,9 @@ splits versus demais algoritimos.
 
 ### Estimação de custos gerais Merge Sorts
 Ilustração da estimação de custos gerais do Merge Sort.
-![Ilustração da estimação de custos gerais do Merge Sort Top Down 2 Subarrays.](images/td2_analise.png)
-![Ilustração da estimação de custos gerais do Merge Sort Top Down 3 Subarrays.](images/td3_analise.png)
-![Ilustração da estimação de custos gerais do Merge Sort Bottom Up.](images/bu_analise.png)
+![Ilustração da estimação de custos gerais do Merge Sort Top Down 2 Subarrays.](https://github.com/DTKx/mergesort/blob/main/images/td2_analise.PNG)
+![Ilustração da estimação de custos gerais do Merge Sort Top Down 3 Subarrays.](https://github.com/DTKx/mergesort/blob/main/images/td3_analise.PNG)
+![Ilustração da estimação de custos gerais do Merge Sort Bottom Up.](https://github.com/DTKx/mergesort/blob/main/images/bu_analise.PNG)
 
 
 <!-- TODO: Installation -->
